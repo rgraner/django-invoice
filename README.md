@@ -1,4 +1,4 @@
-#django-invoice
+# django-invoice
 
 Django-invoice is an app that generates invoices in pdf.
 
